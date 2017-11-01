@@ -1,2 +1,3 @@
 # TPS-reports
 still working on Y2K updates...
+learning python and maybe PHP/SQL.
